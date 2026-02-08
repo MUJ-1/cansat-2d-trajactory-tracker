@@ -22,7 +22,7 @@ This system processes real-time sensor data from a CanSat's IMU to estimate and 
 ---
 
 ### 🛰️ CanSat Hardware
-![CanSat Hardware](resources/CANSAT_Hardware.png)
+![CanSat Hardware](resource/CANSAT_Hardware.png)
 *My CanSat setup built for the competition.*
 
 ## 🚀 Quick Start
